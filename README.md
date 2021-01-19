@@ -41,6 +41,10 @@ Structure of Program:
 
 -------------------statfile.txt
 
+-----------Param\
+
+-----------------statfile.txt
+
 ------Tweaker\
 
 -------------ANTLS.sh
